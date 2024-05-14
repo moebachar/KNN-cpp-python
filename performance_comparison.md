@@ -12,6 +12,6 @@ Below are the runtime performance comparisons between the C++ and Python impleme
 | C++            | data.csv    | ,         | 4   | 2,122,70,27,0,36.8,0.34,27                   | 0               | 1 Milliseconds        |
 | C++            | data.csv    | ,         | 4   | 5,121,72,23,112,26.2,0.245,30                | 0               | 1 Milliseconds        |
 | Python         | data.csv    | ,         | 4   | 1,126,60,0,0,30.1,0.349,47                   | 1               | 16 Milliseconds       |
-| Python         | data.csv    | ,         | 4   | 1,93,70,31,0,30.4,0.315,23                   | 0               | 16 Seconds            |
+| Python         | data.csv    | ,         | 4   | 1,93,70,31,0,30.4,0.315,23                   | 0               | 16 Milliseconds       |
 
 *Note: The runtime values are provided in both milliseconds and seconds for consistency.*
